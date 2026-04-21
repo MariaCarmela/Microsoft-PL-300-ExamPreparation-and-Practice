@@ -73,22 +73,6 @@ Microsoft PL-300 Exam Preparation and Practice/
 | 4 | **Deploying and Maintaining Assets** | Workspaces, security (RLS), asset management and maintenance |
 | 5 | **Mock Exam & Exam Preparation** | Exam strategies, tips & tricks, exam simulation |
 
----
-
-## 📊 Progress Tracker
-
-| Module | Status | Notes |
-|--------|--------|-------|
-| Module 1 – Preparing Data | 🔄 In progress | |
-| Module 2 – Modeling Data | ⬜ Not started | |
-| Module 3 – Visualizing and Analyzing Data | ⬜ Not started | |
-| Module 4 – Deploying and Maintaining Assets | ⬜ Not started | |
-| Module 5 – Mock Exam & Exam Preparation | ⬜ Not started | |
-
-> **Legend:** ✅ Completed &nbsp;|&nbsp; 🔄 In progress &nbsp;|&nbsp; ⬜ Not started
-
----
-
 ## 🛠️ Tools and Resources
 
 ### Tools
@@ -131,4 +115,4 @@ This repository is for personal and educational purposes. Course contents are th
 
 ---
 
-*Last updated: July 2025*
+*Last updated: April 2026*
